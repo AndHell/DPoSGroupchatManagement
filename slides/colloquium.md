@@ -1,37 +1,10 @@
 ---
-marp: true
+marp: false
 paginate: true
 header: AndHell
 theme: default
 ---
 
-<style>
-section::after {
-  content: attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
-}
-header,footer {
-    width: 100%;
-    left: 0px;
-    text-align: center;
-}
-footer strong {
-    color: #000;
-}
-h1,h2,h3 {
-    color: #000;
-    text-align: center;
-}
-section {
-    text-align: center;
-}
-ul, ol{
-    text-align: left;
-}
-pre {
-    text-align: left;
-}
-
-</style>
 
 <!-- _paginate: false -->
 <!-- _footer: "" -->
