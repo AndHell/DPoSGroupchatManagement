@@ -1,5 +1,3 @@
-Andreas Hellenbrand
-
 # Introduction
 Mobile messaging applications, also known as messenger, are used by over one
 billion people to connect to each other and exchange messages. One of the core
